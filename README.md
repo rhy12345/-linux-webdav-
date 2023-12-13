@@ -32,3 +32,6 @@
 ## 配置挂载自动认证
 ### 将用户名、密码写入配置文件
 	vim /etc/davfs2/secrets
+ 	添加以下内容
+
+	"http://127.0.0.1:5244/dav"    admin(用户名)    JSnMmK2z(密码)
